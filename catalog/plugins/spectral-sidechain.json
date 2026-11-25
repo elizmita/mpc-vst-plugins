@@ -12,6 +12,6 @@
     "dynamic-eq",
     "eq"
   ],
-  "screenshot": "https://raw.githubusercontent.com/elizmita/davis-spectral-sidechain/main/docs/preview.png",
+  "screenshot": "https://raw.githubusercontent.com/elizmita/davis-spectral-sidechain/443c83b/docs/preview.png",
   "asset_pattern": "Spectral-Sidechain-*-mpc-armv7.zip"
 }
